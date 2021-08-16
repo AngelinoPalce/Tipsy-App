@@ -1,0 +1,2 @@
+# Tipsy-App
+Tipsy App - iOS App Design Pattern Challenge - I am one of the students of the App Brewery in the course, "iOS 14 &amp; Swift 5 - The Complete iOS App Development Bootcamp". This project is part of the exercises of the bootcamp. The goal of this challenge is to review some of the concepts learnt in the previous modules. Especially relating to the creation of multi-screen apps through the use of segues.
